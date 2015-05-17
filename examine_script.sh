@@ -1,4 +1,6 @@
 #!/bin/bash
+#Created By: 	Richard L. Jackson
+#Purpose:	Read CSV Data	
 
 count=1
 for i in 001
